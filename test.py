@@ -18,7 +18,7 @@ def urlcall(url):
     return res_arr
 
 # list = ['a', 'k', 's', 't', 'n', 'h', 'm', 'y', 'r', 'w']
-list = ['a', 'k']
+list = ['a']
 
 output_arr = []
 for li in list:
